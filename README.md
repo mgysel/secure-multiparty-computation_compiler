@@ -1,4 +1,4 @@
-# Project 2 - SMCompiler
+# Advanced Topics on Privacy-Enhancing Technologies Project 2 - Secure Multiparty Computation Compiler
 
 ## Description
 
