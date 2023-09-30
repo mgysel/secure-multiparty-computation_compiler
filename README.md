@@ -2,8 +2,7 @@
 
 ## Description
 
-In this project, we developed a SMC framework, which allows users to compute a shared expression using different operations (addition, subtraction, and multiplication), scalar values, and the participants
-secrets, without having to send them to a third party to do the computation.
+In this project, we developed a SMC framework, which allows users to compute a shared expression using different operations (addition, subtraction, and multiplication), scalar values, and the participants' secrets, without having to send them to a third party to do the computation. An in-depth discussion including the threat model, implementation details, and performance evaluation can be found in `SMCompiler_report.pdf`.
 
 ## Implementation
 
@@ -18,7 +17,7 @@ secrets, without having to send them to a third party to do the computation.
 
 ## Run & Test
 
-As it stands, the current way to run the framework is by creating an use case, placing it in the test_integration.py
+As it stands, the current way to run the framework is by creating a use-case, placing it in the test_integration.py
 and running the test command, in order to simulate the behavior of the framework for the given test case.
  
 To test the framework, one needs to run the following command in the smcompiler directory:
