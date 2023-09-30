@@ -1,4 +1,4 @@
-# Advanced Topics on Privacy-Enhancing Technologies Project 2 - Secure Multiparty Computation Compiler
+# Secure Multiparty Computation Compiler
 
 ## Description
 
