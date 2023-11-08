@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, we developed a SMC framework, which allows users to compute a shared expression using different operations (addition, subtraction, and multiplication), scalar values, and the participants' secrets, without having to send them to a third party to do the computation. An in-depth discussion including the threat model, implementation details, and performance evaluation can be found in `SMCompiler_report.pdf`.
+In this project, we developed a SMC framework, which allows users to compute a shared expression using different operations (addition, subtraction, and multiplication), scalar values, and the participants' secrets, without having to send them to a third party to do the computation. An in-depth discussion including the threat model, implementation details, and performance evaluation can be found in [SMCompiler_report.pdf](SMCompiler_report.pdf).
 
 ## Implementation
 
